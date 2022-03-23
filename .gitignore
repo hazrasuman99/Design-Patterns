@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FactoryDesignPatternDemo/.vs/FactoryDesignPatternDemo
+/FactoryDesignPatternDemo/Logger/bin/Debug
+/FactoryDesignPatternDemo/Logger/obj/Debug
+/FactoryDesignPatternDemo/Logger/Properties
+/FactoryDesignPatternDemo/packages
+/FactoryDesignPatternDemo/Web/bin
+/FactoryDesignPatternDemo/Web/obj/Debug
+/FactoryDesignPatternDemo/Web/Properties
+/SingletonDemo/Logger/bin/Debug
+/SingletonDemo/Logger/obj/Debug
+/SingletonDemo/SingletonDemo/bin/Debug
+/SingletonDemo/SingletonDemo/obj/Debug
+/SingletonDemo/StaticDemo/bin/Debug
+/SingletonDemo/StaticDemo/obj/Debug
+/SingletonDemo/Web/bin
+/SingletonDemo/Web/obj/Debug

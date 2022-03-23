@@ -1,6 +1,0 @@
-C:\Design Patterns\SingletonDemo\Logger\bin\Debug\Logger.dll
-C:\Design Patterns\SingletonDemo\Logger\bin\Debug\Logger.pdb
-C:\Design Patterns\SingletonDemo\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
-C:\Design Patterns\SingletonDemo\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
-C:\Design Patterns\SingletonDemo\Logger\obj\Debug\Logger.dll
-C:\Design Patterns\SingletonDemo\Logger\obj\Debug\Logger.pdb

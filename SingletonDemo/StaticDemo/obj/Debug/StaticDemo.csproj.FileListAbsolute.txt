@@ -1,0 +1,8 @@
+C:\Design Patterns\SingletonDemo\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Design Patterns\SingletonDemo\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Design Patterns\SingletonDemo\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Design Patterns\SingletonDemo\StaticDemo\obj\Debug\StaticDemo.csproj.AssemblyReference.cache
+C:\Design Patterns\SingletonDemo\StaticDemo\obj\Debug\StaticDemo.csproj.SuggestedBindingRedirects.cache
+C:\Design Patterns\SingletonDemo\StaticDemo\obj\Debug\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Design Patterns\SingletonDemo\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Design Patterns\SingletonDemo\StaticDemo\obj\Debug\StaticDemo.pdb

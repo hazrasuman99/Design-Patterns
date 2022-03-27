@@ -16,5 +16,10 @@ namespace Web.BusinessLogicManager
         {
             return 8;
         }
+
+        public decimal GetHouseAllowance()
+        {
+            return 150;
+        }
     }
 }
